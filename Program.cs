@@ -21,7 +21,7 @@ namespace ConsoleApplication1
             }
             else
             {
-                Console.Write("нечетное число");
+                Console.Write("не четное число");
             }
              Console.ReadKey();
         }
