@@ -1,0 +1,15 @@
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\bin\Debug\net6.0\zadacha 27.exe
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\bin\Debug\net6.0\zadacha 27.deps.json
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\bin\Debug\net6.0\zadacha 27.runtimeconfig.json
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\bin\Debug\net6.0\zadacha 27.dll
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\bin\Debug\net6.0\zadacha 27.pdb
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.csproj.AssemblyReference.cache
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.AssemblyInfoInputs.cache
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.AssemblyInfo.cs
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.csproj.CoreCompileInputs.cache
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.dll
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\refint\zadacha 27.dll
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.pdb
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\zadacha 27.genruntimeconfig.cache
+C:\Users\fross\Desktop\обучение\seminar_01\zadacha 27\obj\Debug\net6.0\ref\zadacha 27.dll
